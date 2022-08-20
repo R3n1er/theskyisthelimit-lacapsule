@@ -1,4 +1,4 @@
-#PROJET CHALLENGE - LA CAPSULE
+# PROJET CHALLENGE - LA CAPSULE
 
 Créer un site web en utilisant HTML et CSS à partir d'une maquette fournie
 
